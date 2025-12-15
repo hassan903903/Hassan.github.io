@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hassan Ibraheem - Lab Report 7</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        header {
+            text-align: center;
+            padding: 10px 0;
+            border-bottom: 2px solid #333;
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        .report-section {
+            margin-bottom: 30px;
+        }
+        .report-section h2 {
+            border-left: 5px solid #007bff;
+            padding-left: 10px;
+            color: #007bff;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Lab Report 7</h1>
+        <p>Student Name: **Hassan Ibraheem**</p>
+        <p>Course: [BEE-62]</p>
+        <p>Date: [16 Dec 2025]</p>
+    </header>
+
+    **</body>** **</html>** ```
